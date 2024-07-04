@@ -93,11 +93,11 @@ body {
     transition: all .5s;
 }
 
-.hero__list:hover {
+.hero__list-item:hover {
     color: #1D6FB6;
 }
 
-.hero__list:hover path {
+.hero__list-item:hover path {
     fill: #1D6FB6;
 }
 
