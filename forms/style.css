@@ -1,0 +1,26 @@
+.form {
+    max-width: 400px;
+}
+h2 {
+    margin-bottom: 8px;
+}
+
+label {
+    display: block;
+}
+
+p {
+    margin-bottom: 5px;
+    margin-top: 7px;
+}
+
+textarea {
+    resize: vertical;
+    width: 200px;
+    min-height: 30px;
+    max-height: 300px;
+}
+
+button {
+    cursor: pointer;
+}
